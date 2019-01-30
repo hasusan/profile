@@ -1,6 +1,8 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  background-color: #F2F2F2
+/*  background-color: #F2F2F2*/
+  background-image: url("images/t72kyy0olj5jvzoiw7xxvxcjuqlhjqprfsnbdvxonjwfpgrliaflthdvz3vx5op6-.jpg");
+  background-size: cover;
 }
 
 h1 {
@@ -95,5 +97,13 @@ div.title_favorite_food {
 
 .food-text {
   text-align: center;
+}
+
+.btn-red {
+    background-color: #DD5555;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
 }
 
